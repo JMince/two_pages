@@ -43,6 +43,6 @@ group :development, :test do
   gem 'spring'
 
   gem 'rails_12factor', group: :production
-
-  gem 'rails_12factor', group: :production
+  
+  gem 'bootstrap-sass', '~> 3.3.3'
 end
